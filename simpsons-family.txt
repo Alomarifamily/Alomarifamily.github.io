@@ -1,4 +1,4 @@
-Mohammad + Marge Simpson
+Mohammad Alomari + Marge Simpson
  c: Bart Simpson#older
  n: blah blah blah blah blah
 Homer Simpson
