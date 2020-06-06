@@ -1,10 +1,10 @@
-خلف+ ؟
- c: حسين, اسماعيل#older
+Khalaf
+ c: Ismael#older, Husain
  n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
  n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-اسماعيل#older
+Ismael#older
  l: 1756-1800
-حسين
+Husain
  c: Maggie Simpson, Abraham Simpson II#older, ?
  p: simpsons/101.png
  n: blah blah blah http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
