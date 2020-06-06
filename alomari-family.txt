@@ -297,8 +297,8 @@ Lard Lad
  p: simpsons/130.png
 Larry (barfly) + Lenny Leonard
  n: blah blah blah blah
- c: Mohammad
-Mohammad
+ c: محمد
+محمد
  l: March 21, 2017-
  n: blah blah blah blah
  p: simpsons/28.png
