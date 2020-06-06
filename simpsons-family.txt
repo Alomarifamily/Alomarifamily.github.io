@@ -1,7 +1,7 @@
 Mohammad Alomari + Marge Simpson
  c: Bart Simpson#older
  n: blah blah blah blah blah
-Homer Simpson
+Mohammad Alomari
  n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
  n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 Marge Simpson
