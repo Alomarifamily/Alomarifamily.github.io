@@ -12,13 +12,12 @@
  n: بريطانيا
  n: https://mhalomari.github.io/
  p: alomari/1.jpg
+ c: عمر#older
 بشار#older
  n: الاردن
 أحمد
  n: الاردن
 علي
  n: أستراليا
-محمد
- c: عمر#older
 عمر#older
  n: بريطانيا
