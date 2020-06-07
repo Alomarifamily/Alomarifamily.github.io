@@ -7,8 +7,16 @@
 هاني#older
  l: 1756-
 هاني#older + ?
- c: محمد
+ c: محمد,بشار#older, أحمد, علي
 محمد
- l: March 21, 2017-
- n: blah blah blah blah
+ n: بريطانيا
+ p: simpsons/28.png
+بشار#older
+ n: الاردن
+ p: simpsons/28.png
+أحمد
+ n: الاردن
+ p: simpsons/28.png
+علي
+ n: أستراليا
  p: simpsons/28.png
