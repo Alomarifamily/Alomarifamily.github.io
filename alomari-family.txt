@@ -5,7 +5,7 @@
  n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
  n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 هاني#older
- l: 1756-
+ l: 1940-
 هاني#older + ?
  c: بشار#older, محمد, أحمد, علي
 محمد
@@ -20,3 +20,7 @@
 علي
  n: أستراليا
  p: simpsons/28.png
+محمد + ?
+ c: عمر#older
+عمر#older
+ n: بريطانيا
