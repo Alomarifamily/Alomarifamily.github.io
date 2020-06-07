@@ -10,7 +10,7 @@
  c: بشار#older, محمد, أحمد, علي
 محمد
  n: بريطانيا
- p: simpsons/28.png
+ p: alomari/1.jpg
 بشار#older
  n: الاردن
  p: simpsons/28.png
