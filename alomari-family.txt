@@ -13,13 +13,10 @@
  p: alomari/1.jpg
 بشار#older
  n: الاردن
- p: simpsons/28.png
 أحمد
  n: الاردن
- p: simpsons/28.png
 علي
  n: أستراليا
- p: simpsons/28.png
 محمد + ?
  c: عمر#older
 عمر#older
