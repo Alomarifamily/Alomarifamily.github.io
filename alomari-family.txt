@@ -1,36 +1,52 @@
 سالم + ?
-‏ c: هاني#older
-‏ n: blah blah blah blah blah
+ c: هاني#older
+ n: blah blah blah blah blah
 سالم
+<<<<<<< HEAD
 ‏ n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
 ‏ n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+=======
+ n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
+ n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+>>>>>>> parent of 12d199c... Update alomari-family.txt
 هاني#older
-‏ l: 1940-
+ l: 1940-
 هاني#older + ?
+<<<<<<< HEAD
 ‏ c: بشار#hani, محمد, أحمد, علي
+=======
+ c: بشار#older, محمد, أحمد, علي
+>>>>>>> parent of 12d199c... Update alomari-family.txt
 محمد
-‏ n: بريطانيا
-‏ n: https://mhalomari.github.io/
-‏ p: alomari/1.jpg
-بشار#hani
-‏ n: الاردن
+ n: بريطانيا
+ n: https://mhalomari.github.io/
+ p: alomari/1.jpg
+بشار#older
+ n: الاردن
 أحمد
-‏ n: الاردن
+ n: الاردن
 علي
-‏ n: أستراليا
+ n: أستراليا
 محمد + ?
+<<<<<<< HEAD
 ‏ c: عمر#mohammad
 عمر#mohammad
 ‏ n: بريطانيا
+=======
+ c: عمر#older
+عمر#older
+ n: بريطانيا
+>>>>>>> parent of 12d199c... Update alomari-family.txt
 علي + ?
-‏ c: حسن
+ c: حسن
 حسن
-‏ n: أستراليا
-بشار#hani + ?
-‏ c: هاني#bashar, زيد, أحمد#bashar
-هاني#bashar
-‏ n: الاردن
+ n: أستراليا
+بشار#older + ?
+ c: هاني2#older, زيد, أحمد2
+هاني2#older
+ n: الاردن
 زيد
+<<<<<<< HEAD
 ‏ n: الاردن
 أحمد‪
 ‏ n: الاردن
@@ -38,3 +54,8 @@
 ‏ c: بشار#ahmed
 بشار#ahmed
 ‏ n: الاردن
+=======
+ n: الاردن
+أحمد2
+ n: الاردن
+>>>>>>> parent of 12d199c... Update alomari-family.txt
