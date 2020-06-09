@@ -72,6 +72,7 @@
 ‏ n: الاردن
 =======
  n: الاردن
+<<<<<<< HEAD
 أحمد2
  n: الاردن
 >>>>>>> parent of 12d199c... Update alomari-family.txt
@@ -82,6 +83,10 @@
 أحمد2
  n: الاردن
 >>>>>>> parent of 12d199c... Update alomari-family.txt
+=======
+أحمد
+ n: الاردن
+>>>>>>> parent of feb6259... u
 =======
 أحمد
  n: الاردن
