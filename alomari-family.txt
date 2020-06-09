@@ -7,7 +7,7 @@
 هاني#older
 ‏ l: 1940-
 هاني#older + ?
-‏ c: بشار#older, محمد, أحمد, علي
+‏ c: بشار#hani, محمد, أحمد, علي
 محمد
 ‏ n: بريطانيا
 ‏ n: https://mhalomari.github.io/
@@ -19,8 +19,8 @@
 علي
 ‏ n: أستراليا
 محمد + ?
-‏ c: عمر#older
-عمر#older
+‏ c: عمر#mohammad
+عمر#mohammad
 ‏ n: بريطانيا
 علي + ?
 ‏ c: حسن
