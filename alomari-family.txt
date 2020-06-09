@@ -3,7 +3,7 @@
 ‏ n: blah blah blah blah blah
 سالم
 ‏ n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
-‏ n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+‏ n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 هاني#older
 ‏ l: 1940-
 هاني#older + ?
@@ -32,7 +32,7 @@
 ‏ n: الاردن
 زيد
 ‏ n: الاردن
-أحمد‪#‬bashar
+أحمد‪
 ‏ n: الاردن
 أحمد + ?
 ‏ c: بشار#ahmed
