@@ -57,7 +57,7 @@
 حسن
  n: أستراليا
 بشار#older + ?
- c: هاني2#older, زيد, أحمد2
+ c: هاني2#older, زيد, أحمد
 هاني2#older
  n: الاردن
 زيد
@@ -77,6 +77,11 @@
 >>>>>>> parent of 12d199c... Update alomari-family.txt
 =======
  n: الاردن
+<<<<<<< HEAD
 أحمد2
  n: الاردن
 >>>>>>> parent of 12d199c... Update alomari-family.txt
+=======
+أحمد
+ n: الاردن
+>>>>>>> parent of feb6259... u
