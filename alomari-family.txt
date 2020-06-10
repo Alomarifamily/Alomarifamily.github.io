@@ -1,10 +1,17 @@
 Khalaf + ?
  c: Ismael, Hussein
  n: جد عمرية أم قيس
-Khalaf
- n: خلف بن أحمد
- n: جد عمرية أم قيس
-Ismael
+Ismael + ?
+ c: Khalaf#1, Hussein#1
  n: اسماعيل بن خلف
-Hussein
+Hussein + ?
+ c: Mohammad, Saleh
  n: حسين بن خلف
+Khalaf#1
+ n: خلف بن اسماعيل
+Hussein#1
+ n: خلف بن اسماعيل
+Mohammad
+ n: محمد بن حسين
+Saleh
+ n: صالح بن محمد

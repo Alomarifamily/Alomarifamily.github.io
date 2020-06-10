@@ -3,7 +3,7 @@
 
 // Override these settings:
 var familyDataFilename = "alomari-family.txt"; // Your own family.txt
-var defaultRootName = 'Khalaf';                // Someone in your family
+var defaultRootName = 'Hussein';                // Someone in your family
 var lineHeight = 220;  // 220 is better, but the Simpsons pngs are very vertical
 
 // Other rendering constants
@@ -603,9 +603,10 @@ function hasRenderedChildren(union, neighbours, layout) {
 function connect(node1, node2, layout, neighbours, divs, lineClass) {
   var [person, union] = isPerson(node1) ? [node1, node2] : [node2, node1];
   if (union.split(' + ').includes(person)) {
+    //if (union.includes("#")) {
     // Connect person with union to a partner
     if (hasRenderedChildren(union, neighbours, layout)) {
-      // Line from bottom of person
+      // Line from bottom of person - Mohammad
       var fudgeFixBelowParent = 4;
       drawLine({x:layout[person].x,
                 y:layout[person].y + divs[person].offsetHeight/2
