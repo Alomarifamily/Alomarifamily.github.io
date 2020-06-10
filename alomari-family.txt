@@ -1,36 +1,10 @@
-سالم + ?
- c: هاني#older
- n: blah blah blah blah blah
-سالم
- n: http://simpsons.wikia.com/wiki/Portal:All_Simpson_Characters
- n: blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
-هاني#older
- l: 1940-
-هاني#older + ?
- c: بشار#older, محمد, أحمد, علي
-محمد
- n: بريطانيا
- n: https://mhalomari.github.io/
- p: alomari/1.jpg
-بشار#older
- n: الاردن
-أحمد
- n: الاردن
-علي
- n: أستراليا
-محمد + ?
- c: عمر#older
-عمر#older
- n: بريطانيا
-علي + ?
- c: حسن
-حسن
- n: أستراليا
-بشار#older + ?
- c: هاني2#older, زيد, أحمد2
-هاني2#older
- n: الاردن
-زيد
- n: الاردن
-أحمد2
- n: الاردن
+Khalaf + ?
+ c: Ismael, Hussein
+ n: جد عمرية أم قيس
+Khalaf
+ n: خلف بن أحمد
+ n: جد عمرية أم قيس
+Ismael
+ n: اسماعيل بن خلف
+Hussein
+ n: حسين بن خلف
