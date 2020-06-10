@@ -3,7 +3,7 @@
 
 // Override these settings:
 var familyDataFilename = "alomari-family.txt"; // Your own family.txt
-var defaultRootName = 'Hussein';                // Someone in your family
+var defaultRootName = 'Mohammad';                // Someone in your family
 var lineHeight = 220;  // 220 is better, but the Simpsons pngs are very vertical
 
 // Other rendering constants
@@ -126,6 +126,7 @@ function getNeighbours(entries) {
       addHalfEdge(x, newName);
     }
   }
+  
   return result;
 }
 
