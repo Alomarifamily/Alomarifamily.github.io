@@ -2,8 +2,10 @@
 'use strict';
 
 // Override these settings:
+//var familyDataFilename = "simpsons-family.txt"; // Your own family.txt
 var familyDataFilename = "alomari-family.txt"; // Your own family.txt
-var defaultRootName = 'Mohammad';                // Someone in your family
+
+var defaultRootName = 'Saleh';                // Someone in your family
 var lineHeight = 220;  // 220 is better, but the Simpsons pngs are very vertical
 
 // Other rendering constants
@@ -606,7 +608,8 @@ function connect(node1, node2, layout, neighbours, divs, lineClass) {
   if (union.split(' + ').includes(person)) {
     //if (union.includes("#")) {
     // Connect person with union to a partner
-    if (hasRenderedChildren(union, neighbours, layout)) {
+    // Mohammad: && !person.includes("?")
+    if (hasRenderedChildren(union, neighbours, layout) && !person.includes("?")) {
       // Line from bottom of person - Mohammad
       var fudgeFixBelowParent = 4;
       drawLine({x:layout[person].x,
@@ -614,7 +617,8 @@ function connect(node1, node2, layout, neighbours, divs, lineClass) {
                 - fudgeFixBelowParent},
                {x:layout[union].x,
                 y:layout[union].y}, lineClass);
-    } else {
+    } //else commented by Mohammad
+    /*else {
       // Line from side of person
       var isLeftPersonOfUnion = union.split(' + ')[0] == person;
       drawLine({x:layout[person].x
@@ -623,7 +627,7 @@ function connect(node1, node2, layout, neighbours, divs, lineClass) {
                 y:layout[person].y},
                {x:layout[union].x,
                 y:layout[union].y}, lineClass);
-    }
+    }*/
   } else {
     // Connect person with union to a parent
     // Line from top of person
@@ -717,7 +721,8 @@ function drawTree(divs, neighbours) {
                  + document.getElementById('control-panel').offsetHeight});
   drawConnections(rootName, neighbours, divs, layout);
   for (let name of Object.keys(neighbours)) {
-    if (isPerson(name)) {
+    //Mohammad: added && !name.includes("?")
+    if (isPerson(name) && !name.includes("?")) {
       if (layout.hasOwnProperty(name)) {
         placeDiv(divs[name], layout[name].x, layout[name].y);
       } else {
