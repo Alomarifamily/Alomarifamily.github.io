@@ -5,11 +5,12 @@
 //var familyDataFilename = "simpsons-family.txt"; // Your own family.txt
 var familyDataFilename = "alomari-family.txt"; // Your own family.txt
 
-var defaultRootName = 'Saleh';                // Someone in your family
+//var defaultRootName = 'Veterinarian';
+var defaultRootName = 'Mohammad#6';                // Someone in your family
 var lineHeight = 220;  // 220 is better, but the Simpsons pngs are very vertical
 
 // Other rendering constants
-var paddingAmount = 8;
+var paddingAmount = 4;
 var photoDir = 'photos/'; // should end with slash
 
 // Rendering settings that user can change
@@ -397,6 +398,8 @@ function adjustUnions(neighbours, layout, divs) {
                + " overlapped above/below. Try increasing lineHeight");
     }
     layout[node].y = (parentBottom + childTop) / 2;
+    //Mohammad:
+    //layout[node].x = layout[p1].x;
   }
 }
 
@@ -410,6 +413,7 @@ function computeLayout(neighbours, divs) {
     pt.y *= lineHeight;
   }
   adjustUnions(neighbours, layout, divs);
+  
   return layout;
 }
 
@@ -612,6 +616,12 @@ function connect(node1, node2, layout, neighbours, divs, lineClass) {
     if (hasRenderedChildren(union, neighbours, layout) && !person.includes("?")) {
       // Line from bottom of person - Mohammad
       var fudgeFixBelowParent = 4;
+      // Mohammad: c
+      //drawLine({x:layout[person].x,
+      //y:layout[person].y + divs[person].offsetHeight/2
+      //- fudgeFixBelowParent},
+     //{x:layout[union].x,
+      //y:layout[union].y}, lineClass);
       drawLine({x:layout[person].x,
                 y:layout[person].y + divs[person].offsetHeight/2
                 - fudgeFixBelowParent},
@@ -631,6 +641,11 @@ function connect(node1, node2, layout, neighbours, divs, lineClass) {
   } else {
     // Connect person with union to a parent
     // Line from top of person
+    //Mohammad: 
+    //drawLine({x:layout[person].x,
+    //y:layout[person].y - divs[person].offsetHeight/2},
+    //{x:layout[union].x,
+    // y:layout[union].y}, lineClass);
     drawLine({x:layout[person].x,
               y:layout[person].y - divs[person].offsetHeight/2},
              {x:layout[union].x,

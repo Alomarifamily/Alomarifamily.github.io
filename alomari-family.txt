@@ -10,10 +10,37 @@ Hussein + ?
 Khalaf#1
  n: خلف بن اسماعيل
 Hussein#1
- n: خلف بن اسماعيل
+ n: حسين بن اسماعيل
 Mohammad
  n: محمد بن حسين
 Saleh
- n: صالح بن محمد
-Saleh + .
- n: صالح بن محمد
+ n: صالح بن حسين
+Saleh + ?
+ n: صالح بن حسين
+ c: Hasan
+Hussein#1 + ?
+ c: musleh, salah, saleh, faraj
+musleh + ?
+ c: Salem, Suleman, Ahmad#3
+Salem + ?
+ c: Nouri, Hussein#2, Hussni, Hani, MohammadAli, Ahmad#4
+Nouri + ?
+ c: Raed, Mohammad#5
+Hussein#2 + ?
+ c: Basel
+Hussni + ?
+ c: Salem#2, Omar
+Hani + ?
+ c: Bashar, Mohammad#6, Ahmad#5, Ali#1
+MohammadAli + ?
+ c: Ali#2, Alaa, Ammar
+Ahmad#4 + ?
+ c: Farouq, Khaled, Mahmoud#2, Mohammad#7
+Suleman + ?
+ c: Abdulrahman, Abdulkareem, Abdulraouf, Abdelfattah, Abdelraheem
+Ahmad#3 + ?
+ c: Mohammad#4, Yahia
+Khalaf#1 + ?
+ c: Mohammad#2, Ali, Ahmad
+Mohammad + ?
+ c: Ahmad#2, Mahmoud
